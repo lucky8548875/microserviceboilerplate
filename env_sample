@@ -1,0 +1,9 @@
+NODE_ENVIRONMENT=development
+API_URL=forDevelopmentURL
+PORT=3300
+
+DB_NAME=dbname
+DB_HOST=host
+DB_PASSWORD=password
+
+MONGO_DB=mongodb://localhost/authservice
